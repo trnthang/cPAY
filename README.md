@@ -1,2 +1,2 @@
 # cPAY
-ADA Payment Plugin software on COTI platform is built and packaged product in the cloud and delivered as a SaaS.
+Plugins and components that enable web shoping accept payment by ADA
